@@ -8,4 +8,4 @@ There is by default a 1 second delay between fetches; please be kind since it ap
 
 Copyright © 2017 Hunter Kelly
 
-Distributed under the Unlicense.  See [http://unlicense.org] for details.
+Distributed under the Unlicense.  See http://unlicense.org for details.
